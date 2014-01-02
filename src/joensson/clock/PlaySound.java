@@ -11,8 +11,8 @@ import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.SourceDataLine;
 import javax.swing.JOptionPane;
 /**
- * To be able to play sounds i had to search the internet, and found this which worked...
- * To be able use it as I wanted I've made some smaller changes.
+ * To be able to play sounds I had to search the internet, and found this which 
+ * worked. To be able use it as I wanted I've made some smaller changes.
  * 
  * I found it at: http://www.daniweb.com/forums/thread17484.html
  * 
